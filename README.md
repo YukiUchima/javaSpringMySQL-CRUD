@@ -1,2 +1,2 @@
-# javaSpringMySQL-CRUD
-full stack CRUD application
+# Java Full Stack CRUD App
+
